@@ -1,3 +1,5 @@
+#Check if a number is greater than, less than, or equal to another number
+
 a=int(input("Enter the value for a: "))
 b=int(input("Enter the value for b: "))
 

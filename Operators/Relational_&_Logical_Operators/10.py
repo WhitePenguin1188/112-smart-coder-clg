@@ -1,3 +1,5 @@
+#Check if a character is uppercase, lowercase, digit, or special character
+
 char=(input("Enter a character: "))
 
 if char.isupper():
